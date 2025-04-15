@@ -4,3 +4,5 @@
 
 # Geography 
 - [[Polar Wandering\|Polar Wandering]]
+Volcano 
+- [[Types of Lava\|Types of Lava]]
