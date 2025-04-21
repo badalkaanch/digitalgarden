@@ -15,3 +15,9 @@ So, if you use a **distant star** as a reference, you count **one full rotation 
 Sidereal day is shorter because Earth moves forward in orbit daily.
 
 ==**Sidereal year is *longer*(than Solar/Synodic)**== because Earth’s orbit has to complete more to adjust for precession.
+
+Mnemonic: din Aur sal mein Chhota kya hai->
+
+==din Chhota hota Hai==-> siderial day is ==shorter== than solar day.
+
+==Sal Lamba hota Hai==-> Sidereal Year is ==longer== than Solar Year.
