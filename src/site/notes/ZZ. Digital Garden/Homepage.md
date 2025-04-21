@@ -4,6 +4,7 @@
 
 # Geography 
 - [[Moon Rotation and Revolution\|Moon Rotation and Revolution]]
+- [[0. Prelims/Geography/Assorted/Solar Day & Sidereal Day 🌍✨\|Solar Day & Sidereal Day 🌍✨]]
 - [[Polar Wandering\|Polar Wandering]]
 Volcano 
 - [[Types of Lava\|Types of Lava]]

@@ -3,8 +3,7 @@
 ---
 
 ![00904-IMG_9145-lava-basalt-pahoehoe.jpg](/img/user/00904-IMG_9145-lava-basalt-pahoehoe.jpg)
-- Basic in nature 
-- Low Silica->Relatively fluid(==Silica slows you down== (like silicon condoms.))
+- very Basic in nature-> **==Not that Slick==**->Low Silica->Relatively fluid(==Silica slows you down== (like silicon condoms.))
 - High Iron, Magnesium, and Calcium
 - Shield Volcano Formation
 #### 2. **Basic / Basaltic / Shield Lava**
