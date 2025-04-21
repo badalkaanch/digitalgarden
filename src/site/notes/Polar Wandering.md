@@ -5,11 +5,11 @@
 ## 🌍 Polar Wandering – Types & Concept
 
 ### 🧠 **TL;DR**
-| Concept                      | Explanation                                                                                                                               |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 🧭 **True Polar Wander**     | Earth khud physically rotate hoti hai → rotational axis wahi hai-> Andar ka weight distribution change ho gaya hai-> Orientation me tilt. |
-| 🧭 **Apparent Polar Wander** | Continents move karte hain → pole shift *lagta hai* (pole hilta nahi)                                                                     |
-| 🧲 **Magnetic Polar Wander** | Magnetic field ke poles time ke saath shift hote hain                                                                                     |
+| Concept                      | Explanation                                                                                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🧭 **True Polar Wander**     | Earth khud physically rotate hoti hai → rotational axis(angle) wahi hai-> Andar ka weight distribution change ho gaya hai-> Orientation me tilt. |
+| 🧭 **Apparent Polar Wander** | Continents move karte hain → pole shift *lagta hai* (pole hilta nahi)                                                                            |
+| 🧲 **Magnetic Polar Wander** | Magnetic field ke poles time ke saath shift hote hain                                                                                            |
 
 ---
 
