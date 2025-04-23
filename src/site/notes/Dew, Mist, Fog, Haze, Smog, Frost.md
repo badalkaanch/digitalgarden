@@ -6,14 +6,14 @@
 
 ### ✅ TL;DR Table
 
-| Term      | Cause/Formation                  | Water Droplets? | Visibility Impact | Mnemonic Trigger                    |
-|-----------|----------------------------------|------------------|-------------------|-------------------------------------|
-| **Dew**   | Condensation on **cold surfaces**| Yes (on surface) | No issue          | *Dew = Down = Neeche boondein*      |
-| **Mist**  | Light condensation in **air**    | Yes (light)      | Slight blur       | *Mist = Mini Fog = Soft blur*       |
-| **Fog**   | Heavy condensation in air        | Yes (dense)      | Severe blur       | *Fog = Full-On Gloom*               |
-| **Haze**  | Dry pollutants (dust/smoke)      | No               | Moderate blur     | *Haze = Hot Air Zyada Effect*       |
-| **Smog**  | Smoke + Fog + pollutants         | Yes + toxic      | Severe + harmful  | *Smog = Smoke + Fog*                |
-| **Frost** | Water vapor freezes (sublimation)| Yes (ice)        | Surface only      | *Frost = Frozen Dew*                |
+| Term      | Cause/Formation                   | Water Droplets?  | Visibility Impact | Mnemonic Trigger               |
+| --------- | --------------------------------- | ---------------- | ----------------- | ------------------------------ |
+| **Dew**   | Condensation on **cold surfaces** | Yes (on surface) | No issue          | *Dew = Down = Neeche boondein* |
+| **Mist**  | Light condensation in **air**     | Yes (light)      | Slight blur       | *Mist = Mini Fog = Soft blur*  |
+| **Fog**   | Heavy condensation in air         | Yes (dense)      | Severe blur       | *Fog = Full-On Ghana Dhundh*   |
+| **Haze**  | Dry pollutants (dust/smoke)       | No               | Moderate blur     | *Haze = Hot Air Zyada Effect*  |
+| **Smog**  | Smoke + Fog + pollutants          | Yes + toxic      | Severe + harmful  | *Smog = Smoke + Fog*           |
+| **Frost** | Water vapor freezes (sublimation) | Yes (ice)        | Surface only      | *Frost = Frozen Dew*           |
 
 ---
 
@@ -37,7 +37,7 @@
 - **Formation:** High moisture content condenses fully in air.
 - **Visibility:** < 1 km, often 100–200 meters.
 - **Severity:** Dangerous for driving etc.
-- **Mnemonic:** *Fog = Full-On Gloom*
+- **Mnemonic:** *Fog = Full-On Ghana Dhundh*
 
 ---
 
