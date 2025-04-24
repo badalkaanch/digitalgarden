@@ -22,6 +22,9 @@
 - **Location:** Leaves, car windshields, grass.
 - **Visibility issue:** Nahi hoti, surface par hi hota hai.
 - **Mnemonic:** *Dew = Down on surface*
+- connection with [[0. Prelims/Geography/Assorted/Absolute Humidity vs. Relative Humidity\|RH]]->
+	- Jab surface cool ho jaati hai toh the point ke air above it reaches RH = 100% → dew forms.
+	- Yeh localized phenomenon hota hai, poori atmosphere ka RH = 100% hona zaroori nahi.
 
 ---
 
