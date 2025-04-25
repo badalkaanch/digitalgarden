@@ -30,6 +30,7 @@
 
 ### 🌫️ 2. **Mist**
 - **Formation:** Slight cooling of moist air → light condensation.
+- ==more moisture==.
 - **Visibility:** 1–2 km tak hoti hai.
 - **Density:** Light particles.
 - **Mnemonic:** *Mist = Mini Fog = Soft blurry air*
@@ -46,6 +47,7 @@
 
 ### 🌪️ 4. **Haze**
 - **Formation:** Pollution/dust particles in air (no moisture involved).
+- similar to smog but ==no condensation.==
 - **Looks like:** Blurred air, especially in dry conditions.
 - **Mnemonic:** *Haze = Hot Air Zyada Effect*
 
