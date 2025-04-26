@@ -38,6 +38,12 @@ Rainfall is a complex interplay of **thermodynamic**, **dynamic**, and **geograp
 
 **Thunder: Related but Distinct Mechanism**
 
+### Lightning And Thunder
+
+==Lightning== is the ==light== -> sudden discharge of electrical energy in the atmosphere
+
+==Thunder is the Thud.==-> The sound produced by the rapid ==expansion and contraction== of ***air*** **heated** by lightning.
+
 While **rainfall and thunder** share **common initial factors**, thunder involves **additional thermodynamic and electrical dynamics**.
 
 ---
