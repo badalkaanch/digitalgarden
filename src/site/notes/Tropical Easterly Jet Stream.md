@@ -56,9 +56,9 @@
 *   **Heating Under High Pressure:** 🔥♨️
     *   **High Pressure Zone:** Yahan **sinking air** hoti hai. 👇
     *   **Effect:** Sinking air **convection** ko suppress karti hai (hawa ko upar uthne nahi deti).
-    *   **Result 1:** Aasmaan saaf rehta hai (**Clear Skies**). ☀️
-    *   **Result 2:** Clear skies + Direct sunlight = Surface **bohot zyada garam** ho jaati hai. 🔥
-    *   **Result 3:** Jo hawa neeche sink kar rahi hai, woh **Adiabatic Heating** se garam hoti hai (closer to surface -> more pressure -> compression -> heating).
+	    *   **Result 1:** Aasmaan saaf rehta hai (**Clear Skies**). ☀️
+	    *   **Result 2:** Clear skies + Direct sunlight = Surface **bohot zyada garam** ho jaati hai. 🔥
+	    *   **Result 3:** Jo hawa neeche sink kar rahi hai, woh **Adiabatic Heating** se garam hoti hai (closer to surface -> more pressure -> compression -> heating).
     *   **Outcome:** Surface ke paas, STHPB ke neeche, ek **garam hawa ka pocket** ban jaata hai, jo upar nahi jaa paa raha (kyunki High Pressure hai). trapped ♨️
 
 *   **The Big Shift:** 💨⬆️
