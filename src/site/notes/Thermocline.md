@@ -5,16 +5,16 @@
 ## Thermocline & ENSO – Quick UPSC Note
 
 ### Mnemonic:
-"Thermo = Heat, Cline = Slope" → Heat slope shift in ocean depth
+"Thermo = Heat, Cline = ==Slope==(ex:- Incline.)" → Heat slope shift in ocean depth
 
 ---
 
 ### Thermocline – Basic Concept
 
-- Ek mid-layer in oceans/lakes jahan temperature sharply decrease karta hai with depth  
+- Ek ==mid-layer== in oceans/lakes jahan temperature sharply decrease karta hai with depth  
 - Separates:  
-  - Warm upper layer (epilimnion)  
-  - Cold deep layer (hypolimnion)
+  - Warm upper layer (epilimnion(pili=garmi))  
+  - Cold deep layer (hypolimnion(high-polar))
 
 ---
 
