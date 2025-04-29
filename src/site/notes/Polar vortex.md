@@ -12,18 +12,18 @@
 
 ### TL;DR Summary Table
 
-| Feature            | Detail (Hinglish)                                                                 | Emoji |
-| :----------------- | :-------------------------------------------------------------------------------- | :---- |
-| **Kya Hai?**       | Poles ke paas, upper atmosphere mein hawa ka **Low Pressure** circular flow (West to East). | 🌪️    |
-| **Kitne Hain?**    | Do (Arctic & Antarctic). Northern wala zyada impactful due to land unevenness.   | ✌️    |
-| **Kahan Banta Hai?**| **Upper Troposphere** se shuru hoke **Stratosphere**, kabhi kabhi **Mesosphere** tak. | ☁️    |
-| **Pressure System**| Upar (Alo) **Low Pressure** 👇 (Surface pe High Pressure hai, confusion mat karna!). | 🤔    |
-| **Kab Strong?**    | **Winter** mein (temp difference zyada hota hai).                                   | 💪🥶   |
-| **Kab Weak?**      | **Summer/Spring** mein (temp difference kam hota hai).                              | 💪☀️   |
-| **Kab Dangerous?** | Jab **WEAK** hota hai! Paradox hai, yaad rakho!                                 | ☠️    |
-| **Weak Hone Pe?**  | Vortex + Polar Jet wobble/split karte hain. Arctic thandi hawa **South** mein spill hoti hai. | 🥶📉   |
-| **Related To?**    | **Polar Jet Stream** (usko contain karke rakhti hai).                            | 🤝💨   |
-| **Weakening Time** | Generally **Spring & Summer** (March - June).                                      | 🌸☀️   |
+| Feature              | Detail (Hinglish)                                                                             | Emoji |
+| :------------------- | :-------------------------------------------------------------------------------------------- | :---- |
+| **Kya Hai?**         | Poles ke paas, upper atmosphere mein hawa ka **Low Pressure** circular flow (West to East).   | 🌪️   |
+| **Kitne Hain?**      | Do (Arctic & Antarctic). Northern wala zyada impactful due to land unevenness.                | ✌️    |
+| **Kahan Banta Hai?** | **Upper Troposphere** se shuru hoke **Stratosphere**, kabhi kabhi **Mesosphere** tak.         | ☁️    |
+| **Pressure System**  | Upar **Low Pressure** 👇 (Surface pe High Pressure hai, confusion mat karna!).                | 🤔    |
+| **Kab Strong?**      | **Winter** mein (temp difference zyada hota hai).                                             | 💪🥶  |
+| **Kab Weak?**        | **Summer/Spring** mein (temp difference kam hota hai (garmi me sab garam reh raha)).          | 💪☀️  |
+| **Kab Dangerous?**   | Jab **WEAK** hota hai!                                                                        | ☠️    |
+| **Weak Hone Pe?**    | Vortex + Polar Jet wobble/split karte hain. Arctic thandi hawa **South** mein spill hoti hai. | 🥶📉  |
+| **Related To?**      | **Polar Jet Stream** (usko contain karke rakhti hai).                                         | 🤝💨  |
+| **Weakening Time**   | Generally **Spring & Summer** (March - June).                                                 | 🌸☀️  |
 
 ---
 
