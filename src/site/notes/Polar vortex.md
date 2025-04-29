@@ -44,7 +44,7 @@
     2.  **Southern Hemisphere Vortex:** Antarctica ke upar. 🐧
 *   **Impact Difference:**
     *   **Northern Hemisphere (NH) wala zyada strong aur zyada effect karta hai.** 💪
-        *   *Kyun?* NH mein landmass zyada uneven hai (kahin zameen, kahin paani). Isse temperature aur pressure mein zyada variations aate hain, jo vortex ko influence karte hain.
+        *   *Kyun?* NH mein landmass zyada ==uneven== hai (kahin zameen, kahin paani). Isse temperature aur pressure mein zyada variations aate hain, jo vortex ko influence karte hain.
     *   **Southern Hemisphere (SH) wala comparatively less effective hai.**
         *   *Kyun?* SH mein mostly paani (ocean) hai Antarctica ke aas paas, land surface zyada uniform hai.
 
@@ -120,7 +120,7 @@
     3.  **Result:** Jo **extremely cold Arctic air** normally vortex ke andar contained rehti hai, woh in meanders aur splits ke through **SOUTH ki taraf spill (leak) kar jaati hai.** 🥶📉
     4.  Isse **mid-latitudes** (jahan hum rehte hain, like North America, Europe, Russia ke kuch hisse) mein **achanak se extreme cold waves, bhayankar thand aur snowfall** aa sakti hai, jabki Arctic mein comparatively warmer ho sakta hai. 🌨️📉
 
-*   **Jab Vortex Strong Hota Hai (Winter mein):**
+*   **Jab Vortex Strong Hota Hai (Winter mein (thandi me asli rang)):**
     *   Woh apni jagah par stable rehta hai, Jet Stream bhi strong hoti hai.
     *   Thandi hawa Poles ke paas hi locked rehti hai. Isliye strong vortex dangerous nahi hota mid-latitudes ke liye. ✅
 
