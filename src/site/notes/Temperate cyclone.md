@@ -19,7 +19,7 @@ Okay, let's break down this video on Extra-Tropical Cyclones into Hinglish class
 | :----------------------------- | :--------------------------------------------------------------------------------------------- |
 | **Kya Hai?** (What?)           | Cyclone jo temperate regions mein banta hai. 🌀                                                |
 | **Kahan Banta Hai?** (Where?)  | 30°-60° Latitude (N/S), Mid-latitudes. 🌍 Between Tropics & Polar Circles.                     |
-| **Doosra Naam** (Alias)        | Mid-latitude Cyclones.                                                                         |
+| **kab?**                       | Predominantly winters (more temprature gradient (sardi mem asli roop))                         |
 | **Kyun Banta Hai?** (Why?)     | Garam (warm) aur thandi (cold) hawa ke milne se (**Fronts**). 🌬️🌡️                           |
 | **Main Drivers**               | Wind Circulation, Pressure Belts (**Subtropical High**, **Subpolar Low**), **Jet Streams**. 💨 |
 | **Hawa Ka Pattern**            | **Westerlies** surface pe, **Jet Streams** upar. West se East chalti hain.                     |
