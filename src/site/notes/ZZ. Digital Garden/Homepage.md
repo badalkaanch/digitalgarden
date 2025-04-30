@@ -4,7 +4,7 @@
 
 # Geography 
 - [[Moon Rotation and Revolution\|Moon Rotation and Revolution]]
-- [[0. Prelims/Geography/Assorted/Solar Day & Sidereal Day 🌍✨\|Solar Day & Sidereal Day 🌍✨]]
+- [[0. Prelims/Geography/Assorted/Solar Day & Sidereal Day\|Solar Day & Sidereal Day]]
 - [[Polar Wandering\|Polar Wandering]]
 - [[Temperate cyclone\|Temperate cyclone]]
 - [[Polar vortex\|Polar vortex]]
