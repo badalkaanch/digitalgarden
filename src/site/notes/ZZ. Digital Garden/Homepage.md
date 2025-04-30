@@ -3,6 +3,7 @@
 ---
 
 # Geography 
+- [[Climatic Types\|Climatic Types]]
 - [[Moon Rotation and Revolution\|Moon Rotation and Revolution]]
 - [[0. Prelims/Geography/Assorted/Solar Day & Sidereal Day\|Solar Day & Sidereal Day]]
 - [[Polar Wandering\|Polar Wandering]]
