@@ -1,0 +1,45 @@
+---
+{"dg-publish":true,"permalink":"/Climatic Types/"}
+---
+
+[Document for](https://t.me/c/2406444953/2349)
+✔️ Climate types
+✔️ Soil types
+✔️ Forest types
+
+| 🌎 **Latitude Zone**                     | 🌊 **Western Margin**                                                                                                   | 🏞 **Central Continent**                                                                                  | 🏖 **Eastern Margin**                                                                              |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **❄ Cold Zone (66°+ N/S)**               |                                                                                                                         | **[[Polar type\|Polar type]]**                                                                                        |                                                                                                    |
+| **🌥 Cool Temperate Zone (45°-66° N/S)** | **[[Cool Temperate (British Type)\|Cool Temperate (British Type)]]** 🌳 _(Deciduous Forests – UK, France, NZ)_                                         | **[[Siberia Type Cold Temperate\|Siberia Type Cold Temperate]]** 🌲 _(Evergreen Coniferous Forests – Russia, Canada, Scandinavia)_     | **[[Laurentian - Eastern Margin\|Laurentian - Eastern Margin]]** 🍂 _(Mixed Forests – NE USA, SE Canada, NW Europe)_            |
+| **🌿 Warm Temperate Zone (30°-45° N/S)** | **[[Mediterranean Climate\|Mediterranean Climate]]** 🍷 _(Mediterranean Forests & Shrubs – Spain, California, South Africa, Australia, Chile)_ | **[[Steppe - Temperate Continental Climate\|Steppe - Temperate Continental Climate]]** 🌾 _(Temperate Grasslands – Central Asia, Argentina, USA)_ | **[[China type - Warm Temperate Eastern Climate\|China type - Warm Temperate Eastern Climate]]** 🌳 _(Warm Wet Forests – China, SE USA, Japan)_ |
+| **🔥 Hot Zone (0°-30° N/S)**             | **[[Hot Desert & Mid-Latitude Desert Climate\|Hot Desert & Mid-Latitude Desert Climate]]** 🏜 _(Desert Vegetation – Sahara, Atacama, Thar, Australian Outback)_   | **[[Savanna\|Savanna]]** 🦁 _(Tropical Grasslands – Africa, Brazil, Australia)_                                    | **[[Tropical monsoon\|Tropical monsoon]]** ⛈ _(Monsoonal Wet Forests – India, SE Asia, NE Australia)_                |
+| **🌧 Equatorial Zone (0°-10° N/S)**      |                                                                                                                         | **[[Hot wet equatorial\|Hot wet equatorial]]** 🌿 _(Equatorial Rainforests – Amazon, Congo, Indonesia)_                       |                                                                                                    |
+
+---
+## 🌍 **Comparison Chart – All Climatic Types**
+
+| 🌎 **Climatic Type**                                | 🌍 **Latitude & Location**                        | 🌦 **Rainfall Pattern**                         | ☀ **Temperature**                                          | 🌿 **Vegetation**                                                | 🌾 **Agriculture & Economy**                                     | 🏡 **Human Settlement**                                         |
+| --------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| **[[Hot wet equatorial\|Hot wet equatorial]]**                          | 🌍 **0°-10°** (Amazon, Congo, Indonesia)          | 🌧 **High (2000-4000mm), Year-round**           | 🔥 **Hot & Humid (25-30°C), No Extreme Variations**        | 🌳 **Evergreen Rainforests, Dense Canopy**                       | 🌱 **Shifting Cultivation, Rubber, Cocoa, Bananas**              | 🏠 **Sparse Population (Dense Forests, Diseases, Poor Soil)**   |
+| **[[Tropical monsoon\|Tropical monsoon]]**                            | 🌍 **10°-30°** (India, SE Asia, NE Australia)     | ⛈ **Seasonal (Heavy in Summer, Dry in Winter)** | 🌡 **Hot Summers (30-40°C), Mild Winters (15-25°C)**       | 🌾 **Deciduous & Mixed Forests, Grasslands**                     | 🌾 **Rice, Tea, Rubber, Jute, Cotton**                           | 🏙 **Densely Populated (Agriculture & Trade Centers)**          |
+| **[[Savanna\|Savanna]]**                                     | 🌍 **10°-20°** (Africa, Brazil, Australia)        | 🌧 **Moderate (750-1250mm), Summer Rain**       | ☀ **Hot (25-35°C), Distinct Dry & Wet Seasons**            | 🌿 **Grasslands, Scattered Trees (Acacia, Baobab)**              | 🐄 **Cattle Ranching, Sorghum, Maize, Millets**                  | ⛺ **Nomadic & Rural Settlements (Tribal Culture)**              |
+| **[[Hot Desert & Mid-Latitude Desert Climate\|Hot Desert & Mid-Latitude Desert Climate]]**    | 🌍 **15°-30°** (Sahara, Atacama, Thar, Australia) | ☁ **Very Low (<250mm), Sporadic**               | 🔥 **Extreme (Day 45°C+, Night <0°C in Cold Deserts)**     | 🌵 **Sparse (Cactus, Xerophytes, Date Palms)**                   | 🌴 **Oasis Farming (Dates, Cotton), Mining (Oil, Gold, Copper)** | ⛺ **Sparse (Bedouins, Nomadic Lifestyle, Oasis Towns)**         |
+| **[[Steppe - Temperate Continental Climate\|Steppe - Temperate Continental Climate]]**      | 🌍 **30°-50°** (Central Asia, Argentina, USA)     | 🌧 **Low-Moderate (250-500mm), Unreliable**     | 🌡 **Hot Summers (35°C), Cold Winters (-10°C)**            | 🌾 **Grasslands (Short-Grass Prairie, Pampas, Eurasian Steppe)** | 🌽 **Wheat, Barley, Sheep & Cattle Ranching**                    | 🏡 **Scattered Rural Population, Agro-Based Economy**           |
+| **[[China type - Warm Temperate Eastern Climate\|China type - Warm Temperate Eastern Climate]]** | 🌍 **25°-40°** (China, SE USA, Japan)             | 🌦 **Moderate to High (1000-2000mm), Seasonal** | 🌡 **Mild Winters (5-15°C), Hot Summers (25-35°C)**        | 🌲 **Mixed Forests, Bamboo, Evergreen Trees**                    | 🍚 **Rice, Tea, Silk Industry, Fruits (Peaches, Oranges)**       | 🏙 **Highly Urbanized, Industrial & Agricultural Hub**          |
+| **[[Cool Temperate (British Type)\|Cool Temperate (British Type)]]**               | 🌍 **45°-60°** (UK, France, NZ)                   | 🌧 **Frequent (800-1500mm), Drizzle-Type**      | 🌥 **Mild Winters (0-10°C), Cool Summers (15-25°C)**       | 🌳 **Deciduous Forests (Oak, Beech, Maple)**                     | 🌾 **Wheat, Dairy Farming, Sheep Grazing, Apples**               | 🏘 **Dense & Urbanized (London, Paris, Wellington)**            |
+| **[[Siberia Type Cold Temperate\|Siberia Type Cold Temperate]]**                 | 🌍 **50°-70°** (Russia, Canada, Scandinavia)      | 🌨 **Moderate (500-1000mm), Snowfall Dominant** | ❄ **Severe Winters (-30°C), Short Cool Summers (10-15°C)** | 🌲 **Coniferous Taiga Forests (Pine, Fir, Spruce)**              | 🌲 **Lumbering, Fur Trade, Limited Farming (Barley, Rye)**       | 🏠 **Sparse (Due to Extreme Cold), Industrial Towns**           |
+| **[[Laurentian - Eastern Margin\|Laurentian - Eastern Margin]]**                 | 🌍 **40°-60°** (NE USA, SE Canada, NW Europe)     | 🌦 **Moderate (800-2000mm), Well-Distributed**  | 🌡 **Cold Winters (-5 to -20°C), Warm Summers (20-30°C)**  | 🌳 **Mixed Forests (Oak, Pine, Maple)**                          | 🌾 **Corn, Dairy Farming, Timber Industry**                      | 🏙 **Highly Urbanized (New York, Toronto, Berlin)**             |
+| **[[Polar type\|Polar type]]**                                  | 🌍 **66°+ (Arctic, Antarctica, Greenland)**       | ❄ **Very Low (<200mm), Snowfall Dominant**      | 🧊 **Extreme Cold (-50°C in Winter, -10°C in Summer)**     | 🌿 **Tundra (Mosses, Lichens, No Trees)**                        | 🐟 **Fishing, Hunting (Seals, Whales), Scientific Research**     | ❄ **Very Sparse, Research Stations, Indigenous Tribes (Inuit)** |
+
+---
+1. [[Polar type\|Polar type]]
+2. [[Savanna\|Savanna]]
+3. [[Hot wet equatorial\|Hot wet equatorial]]
+4. [[Tropical monsoon\|Tropical monsoon]]
+5. [[Steppe - Temperate Continental Climate\|Steppe - Temperate Continental Climate]]
+6. [[China type - Warm Temperate Eastern Climate\|China type - Warm Temperate Eastern Climate]]
+7. [[Hot Desert & Mid-Latitude Desert Climate\|Hot Desert & Mid-Latitude Desert Climate]]
+8. [[Siberia Type Cold Temperate\|Siberia Type Cold Temperate]]
+9. [[Laurentian - Eastern Margin\|Laurentian - Eastern Margin]] 
+10. [[Cool Temperate (British Type)\|Cool Temperate (British Type)]]
+11. [[Mediterranean Climate\|Mediterranean Climate]]
