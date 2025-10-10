@@ -23,11 +23,11 @@
 ➡️ **Wildfires 🔥 common hain** → Ped kam hote hain, ghaas ke seeds survive kar lete hain  
 
 ## 🦁 Wildlife  
-➡️ **Big Five:** Lion, Elephant, Rhinoceros, Buffalo, Leopard  
+➡️ **Big Five:** [[Lion\|Lion]], Elephant, Rhinoceros, Buffalo, Leopard  
 ➡️ Giraffe, Zebra, Cheetah, Hyena, Hippo, Crocodile  
 
 ## 🚜 Human Life & Agriculture  
-➡️ **Nomadic tribes:** Maasai (Kenya, Tanzania)  
+➡️ **Nomadic tribes:** [[Maasai\|Maasai]] (Kenya, Tanzania)  
 ➡️ **Farming:** Maize, Millet, Groundnut  
 ➡️ **Cattle Ranching:** Gaay, Bhains, Bakri charana  
 
@@ -35,7 +35,7 @@
 ### **1️⃣ Predators (Sher, Cheetah, Hyena) 🦁🐆**  
 ➡️ **Hunting easy hoti hai** (Open space me shikar dikhta hai)  
 ➡️ **High-speed chase possible** (Jungle me speed slow ho jaati)  
-➡️ **Group hunting strategies** (Sher aur Wild Dogs ke liye perfect)  
+➡️ **Group hunting strategies** (Sher(Lions primarily hunt in groups) aur Wild Dogs ke liye perfect)  
 
 ### **2️⃣ Herbivores (Giraffe, Zebra, Elephant) 🦓🐘**  
 ➡️ **Danger detect karne ke liye** (Jungle me shikari chip sakte hain)  

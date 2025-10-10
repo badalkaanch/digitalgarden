@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Moon Rotation and Revolution/"}
 ---
 
-![Earth-Rotation-and-Revolution.png](/img/user/Earth-Rotation-and-Revolution.png)
+![Earth-Rotation-and-Revolution.png](/img/user/ZZZ.%20Attachments/Earth-Rotation-and-Revolution.png)
 - bahut simple hai->
 - Tidal locking hoti hai -> Earth aur moon ki heavier side tidally lock ho gaye hain (because weight distribution core of both the bodies is not uniform)->
 - toh moon ka rotation, revolution same time leta hai-> ==toटल==(total) 27 Days.

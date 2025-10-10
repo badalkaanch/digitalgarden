@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Madden-Julian Oscillation (MJO)/"}
 ---
 
-![image-130.png](/img/user/image-130.png)
+![image-130.png](/img/user/ZZZ.%20Attachments/image-130.png)
 # 📚 Madden-Julian Oscillation (MJO)
 
 ## TL;DR:

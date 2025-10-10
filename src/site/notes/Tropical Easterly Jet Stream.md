@@ -10,11 +10,12 @@
            </div>
 
 ## TL;DR: Monsoon Factors Part 2 Summary 📌
+**==Stronger== Tropical Easterly Jet Stream (TEJ) -> ==likely to benefit the Indian monsoon==**
 
-| Factor                  | Kaise Banta Hai (Formation)                                                                                                                               | Monsoon pe Asar (Impact on Monsoon)                                                                                                                                                              |
-| :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Factor                                     | Kaise Banta Hai (Formation)                                                                                                                                           | Monsoon pe Asar (Impact on Monsoon)                                                                                                                                                                               |
+| :----------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Subtropical Easterly Jet Stream (STEJ)** | Intense heating (Tibet, N.India etc.) after STJ shifts North -> Strong Convection -> Upper Air Anticyclone (Clockwise) -> STEJ (Easterly flow at Tropopause). 🔥➡️🌬️ | Upper air circulation ko push karta hai -> Monsoon Cell (Extended Hadley Cell) strong hota hai -> Mascarene High strong -> SE Trades strong -> SW Monsoon strong. Overall monsoon ko **strengthen** karta hai. 💪 |
-| **Western Disturbances (Summer WDs)**    | Intense heating se bane surface Low Pressure areas (Iran, Pak, Afg) -> Cyclonic spin (Anti-clockwise) -> Moisture pickup (Arabian Sea etc) -> Move East. ♨️🌀💧➡️    | NW India mein monsoon ki Arabian Sea & BoB branch ke saath merge hote hain -> **Heavy rainfall** in NW India. 🌧️🌧️                                                                                      |
+| **Western Disturbances (Summer WDs)**      | Intense heating se bane surface Low Pressure areas (Iran, Pak, Afg) -> Cyclonic spin (Anti-clockwise) -> Moisture pickup (Arabian Sea etc) -> Move East. ♨️🌀💧➡️     | NW India mein monsoon ki Arabian Sea & BoB branch ke saath merge hote hain -> **Heavy rainfall** in NW India. 🌧️🌧️                                                                                              |
 
 ---
 

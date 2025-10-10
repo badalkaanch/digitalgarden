@@ -5,8 +5,9 @@
 # ❄️ Cold Temperate Climate (Siberian Type)  
 
 Aka Taiga and Boreal 
-- **"Taiga = Tiger Almost Gaayab"** 🐅🚫 → Siberian Tiger bach bhi gaya hai to bhi gaayab hone wala hai!  
+- **"Taiga = tiger to dikh jaat hai kamse kam, tundra me vo bhi nhai!  
 - **"Boreal( Boréās, “personification of the north wind”) = Bore + Real"** → Ek bore kar dene wali real duniya, sirf conifers, no variety!  
+- yah bhi sirf North mein(continentality-> paani nahi hota itta thanda), along with Laurentian 
 
 ## 🔥 Ek Kahani Jo Sab Samjha De!  
 Soch bhai, **ek aisi jagah jahan zindagi ka matlab sirf ek hi hai – BAS ZINDA REHNA!** 😨  

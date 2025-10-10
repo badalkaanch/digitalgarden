@@ -5,7 +5,7 @@
 # Rossby Waves (Planetary Waves) - Quick Notes
 
 # TL; DR Summary
-![Evolution-of-the-southern-edge-of-the-Rossby-waves-as-the-cold-air-mass-in-blue-moves.png|700x675](/img/user/Evolution-of-the-southern-edge-of-the-Rossby-waves-as-the-cold-air-mass-in-blue-moves.png)
+![Evolution-of-the-southern-edge-of-the-Rossby-waves-as-the-cold-air-mass-in-blue-moves.png|700x675](/img/user/ZZZ.%20Attachments/Evolution-of-the-southern-edge-of-the-Rossby-waves-as-the-cold-air-mass-in-blue-moves.png)
 Jet stream wali☝️
 
 | Aspect             | Details                            | Emoji  |

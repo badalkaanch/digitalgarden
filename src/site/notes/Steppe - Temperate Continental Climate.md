@@ -9,7 +9,7 @@ Soch bhai, **ek aisi jagah jo na puri desert hai, na puri grassland – beech ka
 
 - **☀️ Garmiyon me:** **40°C tak pahunch sakta hai, lekin hawa itni dry hoti hai ki pasina bhi hawa me udd jata hai!**  
 - **❄️ Sardiyon me:** **-20°C ya kabhi kabhi aur bhi neeche! Ek hi jagah dono extremes – yeh hai Steppe!**  
-- **🌿 Vegetation ka scene:** **Na forest, na desert – Sirf Grasslands! Lambi nahi, sirf short aur coarse ghas – kyunki paani kam hai.**  
+- **🌿 Vegetation ka scene:** **Na forest, na desert – Sirf Grasslands(animal ranching)! Lambi nahi, sirf short aur coarse ghas – kyunki paani kam hai.**
 - **🐎 Janwar:** **Wild Horses, Wolves, Bison – sab yahan khul ke daudte hain kyunki forest nahi hai!**  
 - **💨 Hawa itni tez hoti hai ki top soil uda le jaye!** **Isiliye yahaan dust storms bhi common hain!**  
 
@@ -20,15 +20,15 @@ Bhai, **agar kisi ko survival aur adaptability dekhni hai to Steppe dekho – ya
 ## **🌡️ Key Features**  
 
 ✔️ **Extreme Temperature Difference** → **Garmi me 40°C, Sardi me -20°C tak!**  
-✔️ **Low to Moderate Rainfall** → **25-75 cm (Mostly Summer Rainfall)**  
+✔️ **==Low== to ==Moderate== Rainfall** → **25-75 cm (Mostly ==Summer Rainfall==)**
 ✔️ **No Big Trees, Only Grasslands!** → **Short & Coarse Grass – Kyunki paani kam hai!**  
-✔️ **Strong Winds & Dust Storms** → **Kyunki open plains hain, hawa tez chalti hai!**  
+✔️ **Strong Winds & ==Dust Storms==** → **Kyunki open plains hain, hawa tez chalti hai!**
 ✔️ **No Natural Barriers (Ekdam Khuli Jagah)** → **Isiliye yahan sab kuch speed me hota hai!**  
 
 ---
 
 ## **📍 Location (Kahan Milta Hai?)**  
-
+Temperate [[Grasslands\|Grasslands]] me
 ✔️ **Latitude:** **40° - 55° N**  
 ✔️ **Major Regions:**  
   - **🇷🇺 Eurasian Steppe (Russia, Kazakhstan, Mongolia)**  
@@ -48,7 +48,7 @@ Bhai, **agar kisi ko survival aur adaptability dekhni hai to Steppe dekho – ya
 ## **☀️ Summers (Hot & Dry)**  
 - **Temperature:** **35-40°C tak pahunch sakta hai!**  
 - **Dry Heat hoti hai, humidity bilkul kam hoti hai!**  
-- **Rainfall mostly isi season me hoti hai – lekin bahut kam!**  
+- **==Rainfall mostly isi season me== hoti hai – lekin bahut kam!**  
 
 ---
 

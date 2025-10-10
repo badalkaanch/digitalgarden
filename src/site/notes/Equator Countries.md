@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/Equator Countries/"}
 ---
 
-![file_000000005ae0623084106cc6d2bf586c (1).png](/img/user/file_000000005ae0623084106cc6d2bf586c%20(1).png)
-![Screenshot_2025-05-01-13-28-27-910.jpeg](/img/user/Screenshot_2025-05-01-13-28-27-910.jpeg)
+![file_000000005ae0623084106cc6d2bf586c (1).png](/img/user/ZZZ.%20Attachments/file_000000005ae0623084106cc6d2bf586c%20(1).png)
+![Screenshot_2025-05-01-13-28-27-910.jpeg](/img/user/ZZZ.%20Attachments/Screenshot_2025-05-01-13-28-27-910.jpeg)
 Ecuador celambe Bre prince ने Cong 

@@ -5,10 +5,12 @@
 # **❄️ Polar Climate – "Duniya Ka Aakhri Morcha!"**  
 
 ## **🔥 Word Association Trick: "Polar = Permanent Ice Land"** 🧊🏔  
+- ==Tundra= Arctic==, ==Polar Ice cap Climate=Antarctic== aur bohot north Arctic?
 - **Bas imagine kar, ek jagah jahan sirf barf hi barf ho, hawa kaat rahi ho, aur zindagi ka koi asar na dikhe!** 🌬️🥶  
 - **Yahan rehna toh door, khada rehna bhi impossible lagta hai!** 🚫🏡  
 - **Yeh climate bas do jagah milta hai – North Pole (Arctic) aur South Pole (Antarctica)!** 🌍🧭  
-- **Jo log yahaan rehte hain, wo ya toh scientific researchers hain ya phir Arctic me Inuit jaise tough log!** 🏕️🛷  
+- **Jo log yahaan rehte hain, wo ya toh scientific researchers hain ya phir ==Arctic me Inuit jaise tough log==!** 🏕️🛷  
+- ==tundra climate has a summer season== with temperatures consistently above freezing for 3-4 months. This summer is enough to melt the winter ice cover, which prevents the formation of ice sheets.
 
 ---
 
@@ -21,12 +23,12 @@
 
 ### **🌦 Climate**  
 - **Winters? Permanent!** ❄️ (-40°C to -60°C, even lower!)  
-- **Summers? Bas naam ke!** 🌤 (Still below 0°C)  
+- **Summers? 3-4 mahine!** 🌤 (slightly near 0°C)  
 - **Rainfall? 🤣 Koi nahi!** (Annual precipitation < 250 mm → Cold Desert!)  
 - **Sunlight? 6 mahine din, 6 mahine raat!** ☀️🌑  
 
 ### **🌲 Vegetation**  
-- **Arctic me Tundra hota hai!** 🌱 (Bas moss, lichen, aur dwarf shrubs!)  
+- **==Arctic me Tundra hota hai!==** 🌱 (Bas moss, lichen, aur dwarf shrubs!)  
 - **Antarctica? Bilkul barren!** 🚫🌱 (Koi plants nahi, bas ice sheet!)  
 
 ### **🐻 Wildlife**  

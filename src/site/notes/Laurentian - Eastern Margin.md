@@ -8,7 +8,7 @@
 - **Ek jagah imagine kar, jahan samundar ke paas ho, lekin garmi na aaye – bas thandi hawa chale!** 💨🌊  
 - **Taiga se better hai, par British climate se jyada cold hai – bas ek beech ka version!** 🏞️❄️  
 - **Yeh sirf Canada aur USA me nahi, China ke Peking (Beijing) ke paas bhi milta hai!** 🇨🇦🇺🇸🇨🇳  
-- **Wahan ke log hamesha thand aur baarish se lad rahe hote hain, par timber aur fishing industry zabardast hai!** 🪵🐟  
+- **Wahan ke log hamesha thand aur baarish se lad rahe hote hain, par ==timber== aur fishing industry zabardast hai!** 🪵🐟
 
 ---
 
@@ -17,11 +17,12 @@
 ### **📍 Location**  
 - **Continents ke eastern coasts (~40°-60° latitudes)** 🌎  
 - **Main regions** → Eastern Canada 🇨🇦, North-East USA 🇺🇸, Peking (Beijing) region 🇨🇳, some parts of Europe 🇪🇺  
+- **==Absent== in Southern hemisphere**
 
 ### **🌦 Climate**  
-- **Cold winters** ❄️ (Snowy but not as extreme as Taiga)  
-- **Cool summers** 🌤 (Mild, not hot)  
-- **High rainfall** 🌧 (Due to oceanic influence, westerlies bring moisture)  
+- **Cold winters** ❄️ (==Snowy== but not as extreme as Taiga)  
+- **Cool summers** 🌤 (==Mild==, not hot)  
+- **High rainfall** 🌧 (Due to oceanic influence, ==westerlies bring moisture==)  
 
 ### **🌲 Vegetation**  
 - **Mixed forests** → 🌲 Coniferous + 🍂 Deciduous trees  

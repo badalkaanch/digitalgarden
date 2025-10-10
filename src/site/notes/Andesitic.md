@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Andesitic/"}
 ---
 
+Thick-> Badambam
 #### 1. **Acidic / Andesitic / Composite / Stratovolcanic Lava**
 
 - **Viscosity**: High (thick, slow flow)

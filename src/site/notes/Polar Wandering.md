@@ -16,14 +16,14 @@
 ## 🔍 Types of Polar Wandering
 
 ### 1️⃣ **Apparent Polar Wander (APW)**  
-![figure4.2.2 (1).png](/img/user/figure4.2.2%20(1).png)
+![figure4.2.2 (1).png](/img/user/ZZZ.%20Attachments/figure4.2.2%20(1).png)
 - 📌 **Cause**: Plate tectonics → continents ke position shift  
 - 🧭 **Effect**: Lagta hai jaise pole shift hua, but actually continent move kiya  
 - 🧲 **Proof**: Rocks mein magnetic direction time ke saath change milta hai  
 - 🧪 **Tool**: Paleomagnetism
 
 ### 2️⃣ **True Polar Wander (TPW)**  
-![323333 (2).jpg](/img/user/323333%20(2).jpg)
+![323333 (2).jpg](/img/user/ZZZ.%20Attachments/323333%20(2).jpg)
 - 📌 **Cause**: Earth ke andar mass redistribution (e.g., glacial melting, mantle flow)  
 - 🌐 **Effect**: Entire Earth rotate hoti hai spin axis ke respect mein  
 - 🧠 **Key**: Yahan globe hi ghoomta hai, continents nahi  

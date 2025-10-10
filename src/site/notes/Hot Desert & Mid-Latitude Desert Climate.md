@@ -50,7 +50,7 @@ Bhai, **agar kisi ko extreme survival dekhna hai to Desert dekhna padega – yah
 ## **☀️ Hot Desert Climate (Extreme Heat & Dryness!)**  
 ✔️ **Summer:** 40-50°C (Sahara me 58°C tak record!)  
 ✔️ **Winter:** 10-20°C (Raat me freezing bhi ho sakta hai!)  
-✔️ **Rainfall:** **5-25 cm max!**  
+✔️ **Rainfall:** **5-25 cm max!** (1/4 of [[Rainfall in Bhopal\|Rainfall in Bhopal]])
 ✔️ **Humidity:** Bahut kam! Isiliye pasina bhi hawa me udd jata hai!  
 ✔️ **Clear Skies:** 90% of the time, bas ekdum khula asmaan!  
 

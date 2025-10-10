@@ -3,7 +3,8 @@
 ---
 
 # 🌍 Mediterranean Climate  
-
+![Mediterranean Climate.jpg](/img/user/ZZZ.%20Attachments/Mediterranean%20Climate.jpg)
+==**Along w [[British Type\|British Type]]** Winter Maxima climate== 
 ## **🌟 Kahani-Style Explanation**  
 ### **Imagine Kar: Ek Coastal Mediterranean Town**  
 ☀️ **Garmi ka scene:** Tu Italy ya Greece me hai. Blue sky, tez dhoop, par hawa dry hai, isiliye chipchipa garmi **nahi** lag rahi. Beach ke paas thandi hawa aa rahi hai, olive aur orange ke baag lush green dikh rahe hain. Ek cafe me log wine aur seafood enjoy kar rahe hain. **Bilkul ek dreamy vacation spot!**  
@@ -17,8 +18,9 @@
 ### **☀️ Summer (Warm & Dry)**  
 - Temperature: **25-40°C**  
 - **Dry heat**, par coastal breeze se comfortable feel.  
-- **No Rain → Sky clear, bilkul blue, ek bhi badal nahi.**  
-- **Vegetation drought-resistant:** Olive, citrus fruits, vineyards.  
+- **No Rain → Sky clear, bilkul blue, ek bhi badal nahi.** because despite Higher latitude, ==off shore easterlies prevail in summers== 
+- **Vegetation drought-resistant:** Olive, citrus fruits, vineyards.
+- Doesn't support grass 
 - **Tourism peak par hota hai!**  
 
 ### **🌧️ Winter (Mild & Wet)**  

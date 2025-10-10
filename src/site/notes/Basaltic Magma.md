@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/Basaltic Magma/"}
 ---
 
-![00904-IMG_9145-lava-basalt-pahoehoe.jpg](/img/user/00904-IMG_9145-lava-basalt-pahoehoe.jpg)
-- very Basic in nature-> **==Not that Slick==**->Low Silica->Relatively fluid(==Silica slows you down== (like silicon condoms.))
+![00904-IMG_9145-lava-basalt-pahoehoe.jpg](/img/user/ZZZ.%20Attachments/00904-IMG_9145-lava-basalt-pahoehoe.jpg)
+- Silicon makes you basic. very Basic in nature-> **==Not that Slick==**->Low Silica->Relatively fluid(==Silica makes you hard== (like silicon condoms.))
 - High Iron, Magnesium, and Calcium
 - Shield Volcano Formation
 #### 2. **Basic / Basaltic / Shield Lava**
